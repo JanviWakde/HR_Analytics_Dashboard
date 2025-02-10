@@ -1,4 +1,4 @@
-# HR_Analytics_Dashboard
+# HR Analytics Dashboard
 
 ## Overview
 The HR Analytics Dashboard is a comprehensive Power BI report that provides valuable insights into an organization's workforce. It includes key metrics such as headcount by job title, gender, age, and salary range. The dashboard also features a leave balance analysis, allowing HR managers to monitor employee leave trends.
