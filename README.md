@@ -12,7 +12,7 @@ The HR Analytics Dashboard is a comprehensive Power BI report that provides valu
    
 ## Analysis
 This dashboard is able to answer following questions
-1) How many people in rach job?
+1) How many people in each job?
 2) Gender break-down of the staff?
 3) Age spread of staff
 4) Which job pays more?
@@ -21,10 +21,9 @@ This dashboard is able to answer following questions
 7) Staff growth trend over time
 8) Employee filter y starting letter
 9) Leave balance analysis
-And many more..
 
 ## Insights
-- The total number of employees hired over time (cumulative headcount) increased steadily, while the current headcount remained almost constant. This shows that new hiring was balanced by employee exits.
+- The total number of employees hired over time increased steadily, while the current headcount remained almost constant. This shows that new hiring was balanced by employee exits.
 - From September 2018 onwards, the organization experienced significant growth. Over a period of four years, the cumulative headcount increased by 140 employees, indicating a strong hiring phase.
 - The most rapid growth occurred between September 2018 and June 2023, during which the cumulative headcount increased from 21 to 161 employees.
 - Among all job roles, Packaging Associate had the highest average leave balance at 17.95 days, while Quality Control had the lowest at 15.12 days.
