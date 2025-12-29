@@ -24,10 +24,9 @@ This dashboard is able to answer following questions
 And many more..
 
 ## Insights
-- Cumulative Headcount trended up while Headcount remained relatively constant between Tuesday, April 11, 2017 and Thursday, June 22, 2023.
-- ﻿Cumulative Headcount started trending up on Sunday, September 16, 2018, rising by 666.67% (140) in 4 years.
-- Cumulative Headcount jumped from 21 to 161 during its steepest incline between Sunday, September 16, 2018 and Thursday, June 22, 2023
-- ﻿At 17.95, Packaging Associate had the highest Average of Leave Balance and was 18.77% higher than Quality Control, which had the lowest Average of Leave Balance at 15.12.
-- ﻿Across all 10 Job Title, Average of Leave Balance ranged from 15.12 to 17.95.
-- ﻿Packaging Associate accounted for 13.66% of Headcount.
-
+- The total number of employees hired over time (cumulative headcount) increased steadily, while the current headcount remained almost constant. This shows that new hiring was balanced by employee exits.
+- From September 2018 onwards, the organization experienced significant growth. Over a period of four years, the cumulative headcount increased by 140 employees, indicating a strong hiring phase.
+- The most rapid growth occurred between September 2018 and June 2023, during which the cumulative headcount increased from 21 to 161 employees.
+- Among all job roles, Packaging Associate had the highest average leave balance at 17.95 days, while Quality Control had the lowest at 15.12 days.
+- The average leave balance across all 10 job roles remained within a narrow range, showing that leave policies are consistent and fairly applied across the organization.
+- Packaging Associates make up 13.66% of the total workforce, making it one of the key roles in the organization.
