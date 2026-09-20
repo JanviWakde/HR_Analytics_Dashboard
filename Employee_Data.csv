@@ -1,0 +1,401 @@
+EmployeeID,Gender,Age,EducationLevel,DepartmentID,JobRole,HireYear,EmploymentType
+1001,Male,44,Master,2,Analyst,2010,Full-Time
+1002,Female,31,Master,7,Associate,2019,Full-Time
+1003,Male,28,Bachelor,5,Associate,2017,Full-Time
+1004,Male,56,Bachelor,3,Executive,2017,Full-Time
+1005,Male,58,Bachelor,6,Manager,2010,Full-Time
+1006,Female,40,Bachelor,2,Associate,2021,Full-Time
+1007,Male,55,Bachelor,8,Associate,2020,Full-Time
+1008,Male,45,Bachelor,5,Senior Engineer,2017,Contract
+1009,Male,55,Master,2,Manager,2018,Full-Time
+1010,Female,45,Master,4,Senior Engineer,2023,Full-Time
+1011,Male,49,High School,1,Manager,2013,Full-Time
+1012,Male,38,Bachelor,6,Senior Engineer,2010,Contract
+1013,Male,38,High School,2,Associate,2010,Contract
+1014,Male,22,Bachelor,1,Associate,2012,Full-Time
+1015,Female,55,Bachelor,5,Executive,2023,Full-Time
+1016,Male,36,Master,1,Senior Engineer,2014,Full-Time
+1017,Female,56,Bachelor,6,Analyst,2014,Full-Time
+1018,Female,53,Master,2,Executive,2018,Full-Time
+1019,Female,24,PhD,4,Senior Engineer,2019,Full-Time
+1020,Male,53,High School,7,Senior Engineer,2023,Full-Time
+1021,Female,34,Master,5,Executive,2021,Full-Time
+1022,Male,41,Bachelor,2,Associate,2011,Full-Time
+1023,Female,40,Bachelor,6,Senior Engineer,2011,Full-Time
+1024,Female,28,Bachelor,5,Associate,2015,Full-Time
+1025,Female,27,Master,3,Executive,2018,Contract
+1026,Female,23,Bachelor,1,Associate,2010,Full-Time
+1027,Female,37,Master,7,Manager,2018,Contract
+1028,Female,53,Master,6,Analyst,2018,Full-Time
+1029,Female,32,Bachelor,3,Senior Engineer,2022,Full-Time
+1030,Female,42,PhD,8,Analyst,2018,Full-Time
+1031,Male,42,Bachelor,2,Associate,2014,Full-Time
+1032,Male,50,Bachelor,4,Senior Engineer,2022,Full-Time
+1033,Female,58,Bachelor,5,Associate,2018,Full-Time
+1034,Female,58,High School,1,Manager,2020,Full-Time
+1035,Female,28,Master,5,Executive,2013,Full-Time
+1036,Male,47,Bachelor,7,Senior Engineer,2011,Full-Time
+1037,Female,47,Bachelor,2,Manager,2022,Full-Time
+1038,Male,54,Master,5,Manager,2015,Full-Time
+1039,Male,41,Bachelor,1,Senior Engineer,2023,Full-Time
+1040,Male,50,Bachelor,2,Associate,2013,Full-Time
+1041,Male,53,Master,5,Manager,2015,Full-Time
+1042,Male,48,Master,4,Analyst,2012,Contract
+1043,Female,53,Bachelor,6,Manager,2015,Full-Time
+1044,Female,25,Master,2,Associate,2011,Full-Time
+1045,Female,39,Master,6,Associate,2011,Contract
+1046,Female,24,High School,8,Analyst,2022,Full-Time
+1047,Female,55,High School,2,Manager,2018,Full-Time
+1048,Male,37,Bachelor,4,Associate,2016,Full-Time
+1049,Female,48,Bachelor,6,Senior Engineer,2012,Full-Time
+1050,Female,50,Bachelor,3,Executive,2022,Full-Time
+1051,Male,49,Bachelor,1,Executive,2020,Full-Time
+1052,Female,26,Bachelor,3,Executive,2010,Full-Time
+1053,Male,55,Bachelor,5,Manager,2017,Full-Time
+1054,Female,57,Bachelor,4,Analyst,2023,Contract
+1055,Male,44,Bachelor,3,Associate,2015,Full-Time
+1056,Female,49,Bachelor,2,Senior Engineer,2016,Full-Time
+1057,Female,51,Master,5,Senior Engineer,2018,Full-Time
+1058,Male,55,High School,5,Manager,2014,Full-Time
+1059,Male,53,Master,3,Executive,2010,Full-Time
+1060,Male,41,Bachelor,8,Manager,2021,Full-Time
+1061,Male,52,Master,3,Analyst,2019,Full-Time
+1062,Male,43,Bachelor,8,Analyst,2016,Contract
+1063,Male,53,PhD,4,Associate,2014,Full-Time
+1064,Male,23,Bachelor,1,Associate,2012,Full-Time
+1065,Male,38,Bachelor,3,Analyst,2021,Full-Time
+1066,Female,45,Master,7,Analyst,2022,Full-Time
+1067,Female,51,Bachelor,8,Analyst,2018,Full-Time
+1068,Male,23,Bachelor,3,Manager,2010,Full-Time
+1069,Female,44,High School,6,Analyst,2010,Full-Time
+1070,Female,52,Bachelor,2,Senior Engineer,2010,Full-Time
+1071,Female,42,Bachelor,7,Executive,2012,Full-Time
+1072,Female,43,Bachelor,7,Analyst,2021,Full-Time
+1073,Male,22,Master,8,Executive,2015,Full-Time
+1074,Female,47,High School,6,Manager,2019,Full-Time
+1075,Male,22,Bachelor,6,Executive,2020,Full-Time
+1076,Female,46,Bachelor,5,Manager,2012,Full-Time
+1077,Female,37,High School,8,Senior Engineer,2017,Full-Time
+1078,Female,53,Bachelor,1,Manager,2023,Full-Time
+1079,Male,29,Master,2,Manager,2023,Full-Time
+1080,Female,59,Bachelor,4,Associate,2019,Full-Time
+1081,Male,49,High School,7,Analyst,2011,Contract
+1082,Female,46,Bachelor,4,Analyst,2023,Full-Time
+1083,Male,55,High School,3,Senior Engineer,2018,Contract
+1084,Female,45,Master,3,Senior Engineer,2012,Full-Time
+1085,Male,44,High School,4,Analyst,2014,Full-Time
+1086,Male,33,Bachelor,3,Associate,2019,Full-Time
+1087,Female,27,PhD,1,Analyst,2017,Full-Time
+1088,Male,56,Bachelor,6,Associate,2011,Full-Time
+1089,Female,40,Master,3,Senior Engineer,2015,Full-Time
+1090,Female,21,Bachelor,5,Executive,2021,Full-Time
+1091,Female,28,Master,3,Senior Engineer,2014,Full-Time
+1092,Female,36,Bachelor,2,Senior Engineer,2022,Full-Time
+1093,Female,34,Master,1,Manager,2019,Full-Time
+1094,Female,32,High School,2,Manager,2018,Full-Time
+1095,Female,43,High School,2,Manager,2021,Full-Time
+1096,Female,35,High School,5,Manager,2014,Full-Time
+1097,Female,48,Master,1,Associate,2011,Full-Time
+1098,Female,54,Master,1,Analyst,2014,Full-Time
+1099,Female,22,Master,8,Executive,2021,Contract
+1100,Male,52,High School,1,Senior Engineer,2013,Contract
+1101,Male,43,Master,1,Associate,2020,Full-Time
+1102,Female,42,Bachelor,1,Executive,2016,Full-Time
+1103,Female,45,Bachelor,5,Associate,2015,Full-Time
+1104,Female,42,High School,3,Associate,2023,Full-Time
+1105,Female,42,Master,8,Senior Engineer,2011,Full-Time
+1106,Female,26,High School,2,Analyst,2021,Full-Time
+1107,Female,35,Bachelor,1,Manager,2020,Full-Time
+1108,Female,57,Master,7,Analyst,2020,Contract
+1109,Female,53,High School,3,Senior Engineer,2022,Full-Time
+1110,Male,28,Bachelor,3,Senior Engineer,2014,Full-Time
+1111,Female,25,Bachelor,2,Senior Engineer,2016,Full-Time
+1112,Male,59,Bachelor,5,Executive,2020,Contract
+1113,Female,24,Bachelor,4,Analyst,2016,Full-Time
+1114,Female,26,Bachelor,4,Analyst,2014,Full-Time
+1115,Male,52,Bachelor,3,Associate,2021,Full-Time
+1116,Female,50,Bachelor,6,Associate,2018,Full-Time
+1117,Male,55,Bachelor,6,Associate,2013,Full-Time
+1118,Female,36,Master,2,Senior Engineer,2020,Full-Time
+1119,Female,33,Bachelor,4,Analyst,2012,Full-Time
+1120,Male,50,Bachelor,3,Senior Engineer,2013,Full-Time
+1121,Female,39,Bachelor,5,Executive,2014,Full-Time
+1122,Male,37,Bachelor,4,Associate,2022,Full-Time
+1123,Female,39,Bachelor,3,Senior Engineer,2015,Full-Time
+1124,Male,48,Master,3,Senior Engineer,2012,Full-Time
+1125,Male,46,Bachelor,1,Executive,2011,Full-Time
+1126,Female,57,Bachelor,5,Manager,2023,Full-Time
+1127,Female,46,Bachelor,1,Analyst,2022,Contract
+1128,Male,43,Bachelor,2,Manager,2013,Full-Time
+1129,Female,29,Master,1,Associate,2014,Full-Time
+1130,Female,32,High School,7,Senior Engineer,2013,Full-Time
+1131,Female,21,Bachelor,1,Executive,2023,Full-Time
+1132,Male,21,Bachelor,7,Executive,2020,Full-Time
+1133,Male,54,Bachelor,4,Analyst,2022,Full-Time
+1134,Male,52,Master,6,Manager,2021,Full-Time
+1135,Male,45,High School,8,Analyst,2012,Full-Time
+1136,Male,21,Master,8,Senior Engineer,2017,Full-Time
+1137,Male,36,High School,3,Analyst,2019,Full-Time
+1138,Male,59,Master,8,Executive,2013,Full-Time
+1139,Male,25,High School,7,Executive,2023,Full-Time
+1140,Male,42,High School,5,Associate,2011,Full-Time
+1141,Female,49,Master,1,Associate,2011,Full-Time
+1142,Male,23,PhD,7,Senior Engineer,2010,Contract
+1143,Female,32,Master,5,Manager,2022,Full-Time
+1144,Female,46,Bachelor,6,Analyst,2013,Full-Time
+1145,Female,36,Master,8,Senior Engineer,2019,Full-Time
+1146,Male,57,High School,6,Associate,2018,Full-Time
+1147,Male,42,PhD,8,Analyst,2023,Full-Time
+1148,Male,49,Bachelor,1,Associate,2020,Full-Time
+1149,Male,34,Master,2,Analyst,2016,Full-Time
+1150,Female,48,Master,1,Manager,2021,Full-Time
+1151,Male,25,Master,4,Senior Engineer,2019,Full-Time
+1152,Male,50,Bachelor,7,Analyst,2016,Full-Time
+1153,Male,25,Bachelor,3,Executive,2022,Full-Time
+1154,Male,32,Master,2,Executive,2016,Contract
+1155,Male,36,Bachelor,1,Analyst,2017,Full-Time
+1156,Female,46,PhD,5,Analyst,2010,Full-Time
+1157,Male,46,Master,2,Analyst,2019,Contract
+1158,Female,41,High School,7,Executive,2022,Full-Time
+1159,Male,59,Master,8,Executive,2019,Full-Time
+1160,Female,56,Bachelor,2,Analyst,2017,Full-Time
+1161,Male,53,Master,8,Associate,2013,Full-Time
+1162,Male,50,Master,7,Associate,2013,Full-Time
+1163,Female,57,High School,1,Manager,2013,Full-Time
+1164,Female,43,Bachelor,7,Senior Engineer,2015,Full-Time
+1165,Female,30,Master,2,Associate,2016,Contract
+1166,Male,25,Bachelor,5,Executive,2015,Full-Time
+1167,Female,56,Bachelor,6,Associate,2010,Full-Time
+1168,Male,54,Bachelor,2,Manager,2021,Full-Time
+1169,Male,51,Bachelor,7,Manager,2017,Full-Time
+1170,Female,30,Bachelor,6,Senior Engineer,2022,Full-Time
+1171,Female,39,Bachelor,7,Associate,2019,Contract
+1172,Male,52,Bachelor,5,Executive,2020,Full-Time
+1173,Male,21,Master,7,Executive,2022,Full-Time
+1174,Female,25,High School,1,Analyst,2016,Full-Time
+1175,Female,24,High School,3,Executive,2015,Contract
+1176,Female,36,High School,8,Senior Engineer,2015,Full-Time
+1177,Male,44,High School,8,Senior Engineer,2014,Full-Time
+1178,Male,36,Bachelor,2,Executive,2015,Full-Time
+1179,Male,22,Bachelor,3,Executive,2021,Contract
+1180,Male,48,Master,7,Analyst,2018,Full-Time
+1181,Male,52,High School,5,Executive,2019,Contract
+1182,Male,47,Master,2,Analyst,2018,Full-Time
+1183,Female,40,Master,7,Analyst,2019,Full-Time
+1184,Male,44,Bachelor,6,Executive,2017,Full-Time
+1185,Male,32,Master,4,Manager,2019,Full-Time
+1186,Male,55,PhD,7,Manager,2018,Full-Time
+1187,Female,53,Bachelor,3,Analyst,2022,Full-Time
+1188,Male,53,Bachelor,2,Executive,2019,Full-Time
+1189,Male,57,Master,3,Manager,2017,Full-Time
+1190,Female,32,Master,2,Executive,2017,Full-Time
+1191,Male,23,High School,7,Executive,2010,Contract
+1192,Male,21,Master,1,Executive,2019,Contract
+1193,Male,53,Master,6,Associate,2020,Full-Time
+1194,Male,30,Master,7,Executive,2014,Full-Time
+1195,Male,49,Master,8,Associate,2013,Full-Time
+1196,Female,33,Master,3,Analyst,2011,Full-Time
+1197,Female,32,High School,4,Manager,2017,Full-Time
+1198,Female,51,Bachelor,4,Manager,2012,Full-Time
+1199,Male,22,Bachelor,5,Manager,2013,Full-Time
+1200,Male,55,Master,2,Manager,2021,Full-Time
+1201,Male,43,Bachelor,3,Manager,2016,Full-Time
+1202,Female,37,Bachelor,5,Manager,2019,Full-Time
+1203,Male,46,Master,3,Manager,2018,Full-Time
+1204,Male,28,Bachelor,8,Analyst,2011,Full-Time
+1205,Female,49,Master,2,Executive,2012,Full-Time
+1206,Male,46,Master,7,Senior Engineer,2013,Full-Time
+1207,Female,30,Bachelor,7,Associate,2019,Full-Time
+1208,Female,46,Bachelor,4,Senior Engineer,2010,Contract
+1209,Female,54,Bachelor,7,Senior Engineer,2016,Full-Time
+1210,Male,27,Bachelor,7,Executive,2011,Full-Time
+1211,Male,24,Bachelor,8,Executive,2014,Full-Time
+1212,Male,31,Bachelor,1,Executive,2010,Full-Time
+1213,Male,49,Bachelor,4,Manager,2012,Full-Time
+1214,Male,56,High School,5,Analyst,2021,Full-Time
+1215,Male,45,Bachelor,6,Manager,2011,Full-Time
+1216,Male,41,Bachelor,1,Analyst,2010,Contract
+1217,Female,56,Bachelor,5,Analyst,2016,Full-Time
+1218,Male,30,Bachelor,2,Senior Engineer,2014,Full-Time
+1219,Female,57,Master,1,Senior Engineer,2010,Full-Time
+1220,Male,29,Master,8,Analyst,2015,Full-Time
+1221,Male,44,High School,5,Analyst,2014,Full-Time
+1222,Male,55,Master,2,Manager,2012,Full-Time
+1223,Female,55,Bachelor,4,Manager,2021,Full-Time
+1224,Female,56,Master,6,Senior Engineer,2016,Full-Time
+1225,Female,38,Bachelor,2,Executive,2020,Full-Time
+1226,Female,59,PhD,7,Analyst,2019,Full-Time
+1227,Male,52,Master,3,Manager,2018,Full-Time
+1228,Female,44,Master,2,Senior Engineer,2023,Full-Time
+1229,Male,43,Master,2,Manager,2022,Full-Time
+1230,Male,52,High School,6,Analyst,2022,Full-Time
+1231,Female,57,Bachelor,3,Analyst,2018,Full-Time
+1232,Female,32,Master,7,Associate,2023,Full-Time
+1233,Female,33,Bachelor,5,Executive,2018,Contract
+1234,Female,43,Master,5,Associate,2011,Full-Time
+1235,Female,45,High School,2,Senior Engineer,2012,Full-Time
+1236,Female,55,Bachelor,8,Manager,2016,Full-Time
+1237,Female,50,Bachelor,8,Senior Engineer,2014,Full-Time
+1238,Female,37,Bachelor,3,Analyst,2011,Contract
+1239,Male,40,Bachelor,3,Associate,2012,Contract
+1240,Female,45,Bachelor,7,Associate,2019,Full-Time
+1241,Female,42,Bachelor,6,Associate,2015,Full-Time
+1242,Male,33,Bachelor,4,Senior Engineer,2022,Full-Time
+1243,Female,39,Bachelor,5,Analyst,2016,Contract
+1244,Male,56,Master,6,Manager,2018,Full-Time
+1245,Male,32,High School,1,Manager,2010,Full-Time
+1246,Female,39,Bachelor,5,Senior Engineer,2020,Full-Time
+1247,Male,32,Bachelor,6,Associate,2016,Full-Time
+1248,Male,29,Master,5,Executive,2017,Full-Time
+1249,Male,27,Bachelor,4,Senior Engineer,2021,Full-Time
+1250,Male,48,Master,1,Senior Engineer,2023,Full-Time
+1251,Female,34,PhD,8,Analyst,2012,Full-Time
+1252,Male,51,Bachelor,8,Manager,2013,Full-Time
+1253,Female,39,Bachelor,4,Senior Engineer,2019,Full-Time
+1254,Male,36,Bachelor,7,Senior Engineer,2015,Full-Time
+1255,Male,25,Bachelor,1,Associate,2019,Full-Time
+1256,Male,55,Bachelor,2,Associate,2016,Full-Time
+1257,Male,32,Master,6,Executive,2022,Full-Time
+1258,Female,45,High School,1,Analyst,2023,Full-Time
+1259,Female,41,High School,7,Executive,2013,Full-Time
+1260,Male,56,Bachelor,7,Associate,2017,Full-Time
+1261,Male,43,Master,4,Manager,2014,Full-Time
+1262,Female,36,Bachelor,5,Associate,2010,Full-Time
+1263,Male,59,High School,1,Analyst,2013,Full-Time
+1264,Male,59,Master,6,Associate,2012,Full-Time
+1265,Male,34,Master,1,Analyst,2018,Full-Time
+1266,Female,51,High School,3,Analyst,2017,Full-Time
+1267,Female,25,Master,5,Analyst,2010,Full-Time
+1268,Female,55,Master,6,Analyst,2020,Full-Time
+1269,Male,43,Bachelor,8,Analyst,2015,Full-Time
+1270,Male,49,High School,6,Manager,2018,Full-Time
+1271,Female,31,High School,2,Executive,2016,Full-Time
+1272,Female,38,High School,4,Senior Engineer,2013,Full-Time
+1273,Female,32,Master,2,Executive,2022,Full-Time
+1274,Female,29,Master,6,Analyst,2010,Full-Time
+1275,Male,30,High School,5,Manager,2021,Full-Time
+1276,Female,37,Bachelor,1,Associate,2011,Full-Time
+1277,Male,58,High School,8,Manager,2021,Full-Time
+1278,Female,27,High School,1,Analyst,2014,Full-Time
+1279,Male,33,Master,5,Manager,2021,Full-Time
+1280,Female,29,Bachelor,6,Manager,2020,Full-Time
+1281,Female,47,Bachelor,7,Analyst,2014,Contract
+1282,Female,22,Bachelor,1,Manager,2017,Contract
+1283,Female,25,Bachelor,7,Senior Engineer,2015,Full-Time
+1284,Male,49,Bachelor,1,Senior Engineer,2017,Full-Time
+1285,Female,57,Master,1,Manager,2011,Full-Time
+1286,Male,58,Bachelor,8,Associate,2012,Full-Time
+1287,Male,39,Master,4,Analyst,2015,Full-Time
+1288,Male,28,Bachelor,4,Senior Engineer,2021,Full-Time
+1289,Male,21,High School,3,Associate,2022,Full-Time
+1290,Female,42,Bachelor,2,Manager,2019,Full-Time
+1291,Male,37,Master,5,Associate,2012,Full-Time
+1292,Male,27,Master,5,Executive,2015,Full-Time
+1293,Male,45,Bachelor,5,Senior Engineer,2015,Full-Time
+1294,Female,24,Bachelor,3,Manager,2011,Full-Time
+1295,Female,56,Master,4,Analyst,2016,Full-Time
+1296,Female,26,Bachelor,6,Manager,2021,Full-Time
+1297,Female,51,High School,7,Analyst,2011,Full-Time
+1298,Male,39,Master,8,Manager,2015,Full-Time
+1299,Male,59,Bachelor,7,Associate,2010,Full-Time
+1300,Female,47,Bachelor,6,Associate,2012,Full-Time
+1301,Male,30,High School,8,Associate,2011,Full-Time
+1302,Male,46,High School,3,Executive,2016,Contract
+1303,Male,39,Bachelor,6,Analyst,2023,Full-Time
+1304,Female,59,Master,5,Associate,2013,Full-Time
+1305,Female,23,Bachelor,2,Executive,2017,Contract
+1306,Male,33,Bachelor,1,Analyst,2015,Full-Time
+1307,Female,48,Bachelor,7,Manager,2021,Full-Time
+1308,Female,40,Bachelor,4,Executive,2019,Full-Time
+1309,Female,48,PhD,4,Senior Engineer,2013,Full-Time
+1310,Female,28,Bachelor,3,Executive,2014,Full-Time
+1311,Female,59,Bachelor,8,Executive,2022,Full-Time
+1312,Male,21,Master,4,Analyst,2022,Full-Time
+1313,Female,23,Bachelor,5,Manager,2018,Full-Time
+1314,Male,33,High School,7,Senior Engineer,2016,Full-Time
+1315,Male,48,Bachelor,6,Associate,2019,Full-Time
+1316,Female,45,Bachelor,5,Associate,2023,Full-Time
+1317,Male,53,Bachelor,3,Executive,2023,Full-Time
+1318,Male,58,Bachelor,5,Analyst,2018,Full-Time
+1319,Male,26,Master,6,Analyst,2016,Full-Time
+1320,Female,52,Bachelor,2,Associate,2021,Full-Time
+1321,Female,41,Bachelor,3,Senior Engineer,2010,Full-Time
+1322,Male,36,Bachelor,2,Manager,2021,Full-Time
+1323,Female,41,Bachelor,1,Senior Engineer,2017,Contract
+1324,Female,31,Master,2,Manager,2013,Full-Time
+1325,Female,57,Bachelor,1,Associate,2012,Full-Time
+1326,Female,56,Bachelor,1,Manager,2023,Full-Time
+1327,Male,55,Master,2,Analyst,2022,Full-Time
+1328,Male,39,Bachelor,3,Executive,2016,Full-Time
+1329,Female,40,Bachelor,8,Executive,2021,Contract
+1330,Female,38,Bachelor,6,Associate,2012,Full-Time
+1331,Male,34,Bachelor,5,Analyst,2017,Full-Time
+1332,Male,35,Master,5,Senior Engineer,2015,Full-Time
+1333,Female,51,High School,6,Analyst,2014,Full-Time
+1334,Male,21,Bachelor,7,Executive,2013,Full-Time
+1335,Female,23,High School,7,Executive,2017,Full-Time
+1336,Female,36,Master,1,Analyst,2017,Full-Time
+1337,Male,43,Bachelor,1,Analyst,2021,Full-Time
+1338,Male,31,Master,3,Executive,2010,Full-Time
+1339,Female,32,Bachelor,4,Senior Engineer,2018,Contract
+1340,Female,30,Master,2,Associate,2023,Full-Time
+1341,Male,52,PhD,1,Associate,2014,Full-Time
+1342,Female,36,Master,5,Analyst,2013,Full-Time
+1343,Male,28,Master,3,Associate,2015,Full-Time
+1344,Female,58,Bachelor,2,Executive,2015,Contract
+1345,Male,32,Bachelor,3,Executive,2011,Full-Time
+1346,Male,44,Bachelor,2,Analyst,2017,Full-Time
+1347,Male,48,High School,2,Analyst,2016,Contract
+1348,Female,28,Bachelor,6,Analyst,2010,Full-Time
+1349,Female,48,Bachelor,1,Senior Engineer,2014,Contract
+1350,Male,56,Bachelor,8,Associate,2021,Full-Time
+1351,Female,46,Bachelor,3,Analyst,2015,Full-Time
+1352,Male,28,Master,8,Manager,2013,Full-Time
+1353,Male,48,Bachelor,3,Manager,2011,Full-Time
+1354,Female,48,Master,6,Executive,2022,Contract
+1355,Female,57,Master,5,Associate,2023,Full-Time
+1356,Male,56,PhD,8,Analyst,2013,Full-Time
+1357,Female,47,Bachelor,5,Manager,2010,Full-Time
+1358,Female,37,Master,7,Associate,2016,Full-Time
+1359,Male,29,PhD,1,Executive,2011,Full-Time
+1360,Male,53,Master,1,Senior Engineer,2022,Contract
+1361,Female,40,High School,4,Associate,2011,Full-Time
+1362,Male,33,Bachelor,6,Associate,2018,Full-Time
+1363,Male,48,Bachelor,5,Senior Engineer,2014,Full-Time
+1364,Female,49,High School,2,Associate,2011,Full-Time
+1365,Male,33,Bachelor,3,Executive,2020,Full-Time
+1366,Male,55,Master,1,Executive,2018,Full-Time
+1367,Female,26,Master,8,Senior Engineer,2018,Contract
+1368,Female,38,High School,3,Analyst,2010,Full-Time
+1369,Male,25,Master,3,Manager,2020,Full-Time
+1370,Male,45,Bachelor,4,Analyst,2012,Full-Time
+1371,Female,22,Master,5,Associate,2013,Contract
+1372,Female,30,Master,1,Manager,2023,Full-Time
+1373,Female,50,Bachelor,3,Senior Engineer,2016,Full-Time
+1374,Female,25,Bachelor,1,Senior Engineer,2019,Full-Time
+1375,Male,53,Master,2,Manager,2013,Full-Time
+1376,Female,21,Bachelor,4,Executive,2011,Full-Time
+1377,Female,38,High School,2,Manager,2016,Full-Time
+1378,Male,52,Master,1,Associate,2015,Full-Time
+1379,Female,31,Bachelor,7,Executive,2012,Full-Time
+1380,Male,41,Master,8,Senior Engineer,2015,Contract
+1381,Female,46,Bachelor,1,Manager,2020,Full-Time
+1382,Female,45,Master,5,Analyst,2015,Full-Time
+1383,Female,42,Bachelor,3,Analyst,2021,Full-Time
+1384,Male,47,PhD,3,Associate,2014,Full-Time
+1385,Male,33,Master,2,Analyst,2013,Full-Time
+1386,Female,53,High School,8,Manager,2019,Full-Time
+1387,Male,54,Bachelor,4,Manager,2021,Full-Time
+1388,Male,55,PhD,7,Analyst,2010,Full-Time
+1389,Male,21,Bachelor,6,Manager,2019,Full-Time
+1390,Male,41,High School,8,Associate,2015,Full-Time
+1391,Male,26,Bachelor,3,Executive,2011,Full-Time
+1392,Male,48,Bachelor,5,Associate,2022,Full-Time
+1393,Female,37,Master,8,Associate,2012,Full-Time
+1394,Female,25,Master,2,Manager,2023,Full-Time
+1395,Male,51,Bachelor,2,Executive,2017,Full-Time
+1396,Female,25,Bachelor,6,Manager,2019,Full-Time
+1397,Female,58,Bachelor,5,Senior Engineer,2023,Full-Time
+1398,Female,23,Bachelor,4,Manager,2023,Full-Time
+1399,Female,43,High School,8,Manager,2015,Full-Time
+1400,Male,57,Master,5,Manager,2012,Contract

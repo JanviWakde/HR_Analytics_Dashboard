@@ -1,0 +1,9 @@
+DepartmentID,DepartmentName,Region,CostCenter
+1,Engineering,India,CC-100
+2,Sales,India,CC-101
+3,HR,India,CC-102
+4,Finance,India,CC-103
+5,Marketing,India,CC-104
+6,Operations,India,CC-105
+7,Customer Support,India,CC-106
+8,IT,India,CC-107
