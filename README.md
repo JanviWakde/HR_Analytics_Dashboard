@@ -7,7 +7,7 @@ This project uses monthly HR data across three fact/dimension tables to answer q
 
 ## Data Model
 ### Tables:
-Employee — EmployeeID, Gender, Age, EducationLevel, DepartmentID, JobRole, HireYear, EmploymentType
+Employee_Data — EmployeeID, Gender, Age, EducationLevel, DepartmentID, JobRole, HireYear, EmploymentType
 Department — DepartmentID, DepartmentName, Region, CostCenter
 HR_Monthly — one row per employee per month: BaseSalary, Bonus, OvertimeHours, AbsenteeismDays, PerformanceRating, TrainingHours, AttritionFlag, WorkLifeBalanceScore, JobSatisfactionScore
 
