@@ -12,37 +12,7 @@ Department — DepartmentID, DepartmentName, Region, CostCenter
 HR_Monthly — one row per employee per month: BaseSalary, Bonus, OvertimeHours, AbsenteeismDays, PerformanceRating, TrainingHours, AttritionFlag, WorkLifeBalanceScore, JobSatisfactionScore
 
 ### Relationships: 
-star schema — HR_Monthly many-to-one with both Employee and Department on their respective IDs.
-
-Data quirk worth noting: not every employee has a row in every month — dataset coverage thins out for employees whose most recent record predates the overall latest month in the data. This meant a naive "employees active in the latest calendar month" measure undercounted headcount significantly. The fix was to evaluate each employee's own most recent record rather than filtering to one global latest month — a per-employee ALLEXCEPT-based DAX pattern rather than a simple date filter. Documented as a decision, not hidden.
-
-## Key DAX Measures
-Active Employees =
-CALCULATE(
-    DISTINCTCOUNT(Fact_HR_Monthly[EmployeeID]),
-    FILTER(
-        VALUES(Fact_HR_Monthly[EmployeeID]),
-        VAR CurrentEmp = Fact_HR_Monthly[EmployeeID]
-        VAR LastMonthForEmp =
-            CALCULATE(
-                MAX(Fact_HR_Monthly[StartOfMonth]),
-                ALLEXCEPT(Fact_HR_Monthly, Fact_HR_Monthly[EmployeeID])
-            )
-        VAR LastFlag =
-            CALCULATE(
-                MAX(Fact_HR_Monthly[AttritionFlag]),
-                Fact_HR_Monthly[StartOfMonth] = LastMonthForEmp,
-                ALLEXCEPT(Fact_HR_Monthly, Fact_HR_Monthly[EmployeeID])
-            )
-        RETURN LastFlag = 0
-    )
-)
-
-Attrition Rate =
-DIVIDE(
-    CALCULATE(DISTINCTCOUNT(Fact_HR_Monthly[EmployeeID]), Fact_HR_Monthly[AttritionFlag] = 1),
-    DISTINCTCOUNT(Fact_HR_Monthly[EmployeeID])
-)
+Star schema — HR_Monthly many-to-one with both Employee and Department on their respective IDs.
 
 ### Business Questions Covered
 ## Category	Examples
