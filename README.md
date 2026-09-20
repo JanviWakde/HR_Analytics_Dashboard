@@ -5,6 +5,9 @@ An interactive Power BI dashboard analyzing workforce, compensation, performance
 ## Project Overview
 This project uses monthly HR data across three fact/dimension tables to answer questions HR leadership would realistically ask — from basic headcount and cost tracking to attrition drivers and performance-vs-cost tradeoffs. The dashboard is built as a single page, combining KPI cards, department-level breakdowns, and trend visuals across workforce, compensation, performance, attrition, and satisfaction so every key metric is visible at a glance without page-switching.
 
+## Tool used
+Power BI desktop app
+
 ## Data Model
 ### Tables:
 Employee_Data — EmployeeID, Gender, Age, EducationLevel, DepartmentID, JobRole, HireYear, EmploymentType
